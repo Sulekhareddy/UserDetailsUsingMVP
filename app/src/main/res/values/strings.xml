@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UserDetailsUsingMVP</string>
+    <string name="users_button">USERS</string>
+    <string name="user_name">NAME :</string>
+    <string name="user_email">EMAIL :</string>
+    <string name="user_address">ADDRESS :</string>
+    <string name="user_companyname">COMPANY NAME :</string>
+    <string name="user_phone">PHONE :</string>
+
+</resources>
